@@ -22,6 +22,7 @@ export function Header() {
         justifyContent="center"
       >
         <Image
+          width={["81px","184px"]}
           src="/logo.svg"
           alt="Logo worldtrip"
           justifySelf="center"
