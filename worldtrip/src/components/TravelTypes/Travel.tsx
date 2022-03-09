@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import { Flex, Image, Text, useBreakpointValue } from "@chakra-ui/react";
 
 interface TravelProps {
