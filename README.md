@@ -17,6 +17,12 @@
 
 &nbsp;
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Q9rO0T2EZ0ya1luXMiXZ5a/Desafio-1-M%C3%B3dulo-4-ReactJS-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+
+&nbsp;
+
 ## 👨🏻‍💻 Funcionalidades desenvolvidas por mim
 * Integração com o Prismic CMS, onde todas as informações usadas no site são armazenadas/criadas.
 * Adicionado o uso do sistema estatico do Next.js, onde todas as rotas são pré-carregadas e salvas em cache.
